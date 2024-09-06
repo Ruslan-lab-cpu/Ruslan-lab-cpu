@@ -1,4 +1,4 @@
-RuslanRepository have Squeak and Smalltalk files
+RuslanRepository have Squeak and Smalltalk files.
 My Youtube: https://www.youtube.com/@minecraft2107 (only russian lang)
 
 
